@@ -1,0 +1,9 @@
+.todo_list{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 2%; 
+}
